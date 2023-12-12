@@ -5,7 +5,7 @@
 //paragrafo.innerHTML = 'Choose a number between 1 to 10';
 
 let listaDeNumerosSorteados = []; //quando abrimos uma lista vazia, abrimos e fechamos conchetes.
-let numeroLimite = 10;
+let numeroLimite = 50;
 let NumeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
